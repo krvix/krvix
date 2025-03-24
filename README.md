@@ -1,4 +1,4 @@
-# Kyrix - AI-Powered Blockchain Supply Chain Management 🚀
+# Kyrix - AI-Powered BNBCHAIN Supply Chain Management 🚀
 
 Kyrix is a modern supply chain management system that combines artificial intelligence and blockchain technology. By integrating AI's predictive capabilities with blockchain's immutability, we provide enterprises with an intelligent, transparent, and secure supply chain solution.
 
@@ -39,7 +39,7 @@ Kyrix is a modern supply chain management system that combines artificial intell
 
 - Python 3.8+
 - Node.js 14+
-- Ethereum node (Ganache for local development)
+- BNBCHAIN node (Ganache for local development)
 
 ### 2. Installation
 
@@ -114,7 +114,7 @@ src/
 
 ## 📞 Contact
 
- [Twitter](https://x.com/Ai_Kyrix)
+[Twitter](https://x.com/Ai_Kyrix)
 
 ## 🙏 Acknowledgments
 
